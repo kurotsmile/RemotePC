@@ -1,0 +1,7 @@
+[HKEY_CLASSES_ROOT\note]
+@="Chay notepad"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\note\shell]
+[HKEY_CLASSES_ROOT\note\shell\open]
+[HKEY_CLASSES_ROOT\note\shell\open\command]
+@="C:\Windows\notepad.exe"
